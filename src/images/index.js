@@ -33,4 +33,12 @@ export const images = {
   people5: require('./images/people5.png'),
   people6: require('./images/people6.png'),
   wave: require('./images/wave.png'),
+  apple: require('./images/apple.png'),
+  samsung: require('./images/samsung.png'),
+  airbnb: require('./images/airbnb.png'),
+  facebook: require('./images/facebook.png'),
+  microsoft: require('./images/microsoft.png'),
+  disney: require('./images/disney.png'),
+  mcdonalds: require('./images/mcdonalds.png'),
+  instagram: require('./images/instagram.png'),
 };
